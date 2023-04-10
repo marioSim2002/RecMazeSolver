@@ -14,7 +14,7 @@ public class solver {
         if (solution == null) {
             System.out.println("No solution found.");
         } else {
-            // iterate through each element of the array and print it in a formatted manner
+           
             for (int i = 0; i < solution.length; i++) {
                 for (int j = 0; j < solution[i].length; j++) {
                     // print each element with a padding of 4 spaces
