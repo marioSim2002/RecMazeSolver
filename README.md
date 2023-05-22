@@ -1,5 +1,5 @@
 # RecMazeSolver
-*the code uses backtracking to solve a maze.
+*the code uses backtracking to solve a maze (recursively).
 * 0 means there is a path.
 * 1 means a block.
 
