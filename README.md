@@ -6,4 +6,4 @@
 * use the code by applying the x (horizontal) and y (vertical) points of the starting and ending location of the maze,
 and simply run it.
 
-* the path will be replaced with "2"
+* the available path will be replaced with "2"
